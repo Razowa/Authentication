@@ -21,6 +21,7 @@
     "mongoose": "^6.7.5",
     "nodemon": "^2.0.20",
     "passport": "^0.6.0",
-    "passport-local": "^1.0.0"
+    "passport-local": "^1.0.0",
+    "vercel": "^30.2.1"
   }
 }
